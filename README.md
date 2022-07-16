@@ -4,15 +4,15 @@ This is a application which sells the TRADITIONAL clothes for both men and women
 ## Packages used in this application
     javascript
     React
-Material-ui
-Redux
-Node
-Express
-JWT authentication
-Hasshing Password
-Stripe for payment
-Firebase for storage
-Emailjs
+    Material-ui
+    Redux
+    Node
+    Express
+    JWT authentication
+    Hasshing Password
+    Stripe for payment
+    Firebase for storage
+    Emailjs
 
 
 ## Deployment
