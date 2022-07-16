@@ -1,4 +1,4 @@
-# ECOMMERCE APPLICATION
+## ECOMMERCE APPLICATION
 This is a ECOMMERCE application with name of TRADITIONAL EMART which sells the TRADITIONAL clothes for both men and women.
 
 ## Packages used in this application
