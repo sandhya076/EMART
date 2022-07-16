@@ -1,1 +1,9 @@
-
+{
+  "name": "sandhya",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "timeago.js": "^4.0.2"
+  }
+}
